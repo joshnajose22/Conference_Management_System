@@ -1,1 +1,2 @@
 # Project
+To develop a website for managing scientific conference submissions and reviews. Enables researchers to submit papers, reviewers to evaluate submissions, and conference chairs to assign papers to reviewers. Reviewers submit evaluations; chairs make acceptance/rejection decisions and notify authors. Roles include authors, reviewers, and conference chairs, each with specific system interactions.
